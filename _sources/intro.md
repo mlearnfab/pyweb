@@ -2,16 +2,24 @@
 
 Welcome to **Python for Absolute Beginners**, a learning community of inquirers. Our mission is to help members develop practical skills in Computation, Data Science, Machine Learning, and Artificial Intelligence. 
 
-Please check out our learning programs in [Data Science](https://dsciencefab.com) and [Machine Learning](https://mlearnfab.com). 
 
+* Please consult the [Curriculum](curriculum), [FAQ](faq), and [Learning Design](learningdesign) pages for an overview of our free learning programs and activities in Data Science.
 
-Please consult the [FAQ](faq), [Curriculum](curriculum), and [Learning Design](learningdesign) pages for an overview for learning Python.
+<p>
 
+* Also, please check out our free learning programs in [Data Science](https://dsciencefab.com) and [Machine Learning](https://mlearnfab.com). 
 
+<p>
 
 * You can register for online interactive events at the [Meetup Web Page](https://www.meetup.com/mlearnfab/).
 
-* Email for any queetions or issues: pythonfab@gmail.com
+<p>
+
+* Email us for any questions or issues: mlearnfab@gmail.com
+
+<p>
+
+
 
 
 ## <font color="maroon">Getting Started Videos</font>

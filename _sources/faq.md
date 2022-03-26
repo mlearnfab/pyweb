@@ -1,22 +1,22 @@
 (faq)=
 # <font color="maroon">Frequently Asked Questions</font>
 
-**Q.** *What is Python Programming for Absolute Beginners (<font color="green">@pythonfab</font>?)*
+**Q.** *What is Python for Absolute Beginners?*
 
-**A.** *Python Programming for Absolute Beginners* is an online course designed for busy professionals who want to learn programming quickly and efficiently. Unlike most offerings, the course combines self-paced material with live interactive sessions. The course design is based on principles of active learning. Our goal is to teach you computation skills and the power of abstract thinking, not simply coding.
+**A.** *Python for Absolute Beginners* is a free online proram designed for busy professionals who want to learn programming quickly and efficiently. Unlike most offerings, the course combines self-paced material with live interactive sessions. The course design is based on principles of active learning. Our goal is to teach you computation skills and the power of abstract thinking, not simply coding.
  
 ---
 
-**Q.** *How much does <font color="green">@pythonfab</font> cost?*
+**Q.** *How much does cost?*
 
-**A.** There is no cost. Because the number of free seats we can offer is limited, you must sign a pledge that you will spend at least two hours per week learning the material. The pledge is based on the honor system. Ultimately, you are only accountable to yourself.
+**A.** Python for Absolute Beginners is free.
 
 ---
  
 
 **Q.** *What is the time commitment?*
 
-**A.** *Python Programming for Absolute Beginners, Level I* consists of seven units. Each unit should take 3 - 5 hours to complete. The expected time commitment, therefore, is approximately 40 - 50 hours.
+**A.** *Python for Absolute Beginners, Level I* consists of seven units. Each unit should take 3 - 5 hours to complete. The expected time commitment, therefore, is approximately 40 - 50 hours.
 
 ---
 
@@ -55,7 +55,7 @@
 
 **Q.** *How do I enroll?*
 
-**A.** To enroll in the formal path, go to the [moodle web site](https://mlfab.moodlecloud.com). Click on "Create new account" at the bottom. After you have created the new account, email pythonfab@gmail.com. You will then receive instructions (within 24 hours) on how to get started.
+**A.** To enroll in the program, go to the [moodle web site](https://mlfab.moodlecloud.com). Click on "Create new account" at the bottom. After you have created the new account, email mlearnfab@gmail.com. You will then receive instructions (within 24 hours) on how to get started.
 
 
 ---
