@@ -4,7 +4,7 @@
 
 The **Python, Level I** consists of 7 Units and an Overview.
 
-```{image} /images/whatwillilearn.png
+```{image} /images/pythonunits.png
 :width: 750px
 :align: center
 ```
@@ -12,7 +12,7 @@ The **Python, Level I** consists of 7 Units and an Overview.
 Each unit covers a major topic. Your traversal of the material will not be linear. It will follow the trajectory of a helix. The same concept (e.g. function) will appear multiple times as you go through the learning journey.
 
 ```{image} /images/helix.png
-:width: 500px
+:width: 350px
 :align: center
 ```
 
@@ -25,13 +25,13 @@ Each unit covers a major topic. Your traversal of the material will not be linea
 <p>&nbsp;</p>
 
 
-- **Unit 1: Getting Started:** In Unit 1 we will introduce the programming environment and the tools you will be using during the course of study. Think of yourself as an athlete in training. Your goal in the first few weeks is to establish a routine and a good set of habits. You should be "training" on average a couple of hours each week.
+- **Unit 1: Getting Started:** In Unit 1 we will introduce the programming environment and the tools you will be using during the course of study. 
 
 
 <p>&nbsp;</p>
 
 
-- **Unit 2: Simple Data Types and Operations.** In Unit 2 we introduce Python simple data types and operations. The simple data types include *int*, *float*, *string*, and *boolean*. We can think of the data types as the atoms of the Python language. We also introduce a number of useful Python functions. 
+- **Unit 2: Simple Data Types and Operations.** In Unit 2 we introduce Python simple data types and operations. The simple data types include *int*, *float*, *string*, and *boolean*. We can think of the data types as the atoms of the Python language. We will also introduce a number of useful Python functions. 
 
 
 
