@@ -10,10 +10,10 @@ The **Python, Level I** consists of 7 Topics.
 ```
 
 
-## <font color="blue">Major Units</font>
+## <font color="blue">Units</font>
 
 
-- **Unit 0: Orientation:** In the orientation session we will go over the curriculum and expectations. There is also a brief introduction to the main concepts of programming. You will also write several elementary programs in Python.
+- **Unit 0: Orientation:** In the orientation session we will go over the curriculum and expectations. There is also a brief introduction to the main concepts of programming. 
 
 
 <p>&nbsp;</p>
