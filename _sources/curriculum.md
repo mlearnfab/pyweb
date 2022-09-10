@@ -2,7 +2,7 @@
 # <font color="maroon">Curriculum</font>
 
 
-The **Python, Level I** consists of 7 Units and an Overview.
+The **Python, Level I** consists of 7 Topics.
 
 ```{image} /images/pythonunits.png
 :width: 750px
