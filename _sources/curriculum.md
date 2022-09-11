@@ -10,7 +10,7 @@ The **Python, Level I** consists of 7 Topics.
 ```
 
 
-## <font color="blue">Units</font>
+## <font color="blue">Python Level I</font>
 
 
 - **Unit 0: Orientation:** In the orientation session we will go over the curriculum and expectations. There is also a brief introduction to the main concepts of programming. 
@@ -25,7 +25,7 @@ The **Python, Level I** consists of 7 Topics.
 <p>&nbsp;</p>
 
 
-- **Unit 2: Simple Data Types and Operations.** In Unit 2 we introduce Python simple data types and operations. We can think of the data types as the atoms of the Python language. We will also introduce a number of useful Python functions. 
+- **Unit 2: Simple Data Types and Operations.** In Unit 2 we introduce Python simple data types and operations. 
 
 
 
@@ -57,5 +57,5 @@ The **Python, Level I** consists of 7 Topics.
 <p>&nbsp;</p>
 
 
-- **Unit 7: Functions.** In Unit 7 we introduce Python functions. Functions allow for reuse of code. But they are also a powerful tool for generalization and abstraction. In your study of Python, you will be writing your own functions but also accessing the rich array of functions in the Python standard and extended libraries.
+- **Unit 7: Functions.** In Unit 7 we introduce Python functions.  In your study of Python, you will be writing your own functions but also accessing the rich array of functions in the Python standard and extended libraries.
 
