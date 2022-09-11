@@ -2,12 +2,12 @@
 
 Welcome to **Python for Absolute Beginners**. If you are completely new to programming or just new to Python, our free learning program might be right for you. 
 
-> **Python for Absolute Beginners** <font color="magenta">(@pythonfab)</font> is a free online program designed for busy professionals who want to learn programming quickly and efficiently. 
+**Python for Absolute Beginners** <font color="magenta">(@pythonfab)</font> is a free online program designed for busy professionals who want to learn programming quickly and efficiently. 
 
 
 Unlike most offerings, the course combines self-paced material with live interactive sessions. The course design is based on principles of active learning. Our goal is to teach you computation skills and the power of abstract thinking, not simply coding. 
 
-<font color="magenta">@pythonfab</font> was especially designed as a stepping stone course for those interested in Data Science and Machine Learning careers.
+<font color="magenta">@pythonfab</font> was especially designed for those interested in Data Science and Machine Learning careers.
 
 
 
