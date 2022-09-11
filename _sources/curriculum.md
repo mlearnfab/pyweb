@@ -25,7 +25,7 @@ The **Python, Level I** consists of 7 Topics.
 <p>&nbsp;</p>
 
 
-- **Unit 2: Simple Data Types and Operations.** In Unit 2 we introduce Python simple data types and operations. The simple data types include *int*, *float*, *string*, and *boolean*. We can think of the data types as the atoms of the Python language. We will also introduce a number of useful Python functions. 
+- **Unit 2: Simple Data Types and Operations.** In Unit 2 we introduce Python simple data types and operations. We can think of the data types as the atoms of the Python language. We will also introduce a number of useful Python functions. 
 
 
 
@@ -33,7 +33,7 @@ The **Python, Level I** consists of 7 Topics.
 
 
 
-- **Unit 3: String Methods.** In Unit 3 we study a variety of string methods. In the unit we will introduce concepts that are also critical to the study of collections. As we spend time on strings, we will briefly explore some basic concepts in Natural Language Processing. 
+- **Unit 3: String Methods.** In Unit 3 we study a variety of string methods. In the unit we will introduce concepts that are also critical to the study of collections. 
 
 
 <p>&nbsp;</p>
@@ -45,13 +45,13 @@ The **Python, Level I** consists of 7 Topics.
 <p>&nbsp;</p>
 
 
-- **Unit 5: Iteration.** In Unit 5 we introduce Iteration with the use of *for* and *while* loops. Repetition is boring for humans. Computers excel at repetition. Harnessing this ability is a key to computation. 
+- **Unit 5: Iteration.** In Unit 5 we introduce Iteration with the use of *for* and *while* loops. 
 
 
 <p>&nbsp;</p>
 
 
-- **Unit 6: Branching.** In Unit 6 we study various techniques for branching through statements, such as if .. else. A computer program is a series of instructions. But most programs are not strictly sequential. Depending on a state or condition, the path of execution will vary.
+- **Unit 6: Branching.** In Unit 6 we study various techniques for branching through statements, such as if .. else. 
 
 
 <p>&nbsp;</p>
