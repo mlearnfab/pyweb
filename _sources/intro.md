@@ -13,14 +13,14 @@ Unlike most offerings, the course combines self-paced material with live interac
 
 ## <font color="maroon">Fall 2022 Schedule</font>
 
-* 0. Orientation.
-* 1. Getting Started. Tue, Sep13, 7:00 PM EDT
-* 2. Simple Objects and Operations. Tue, Sep20, 7:00 PM EDT
-* 3. String Methods. Tue, Sep27, 7:00 PM EDT
-* 4. Collections. Tue, Oct4, 7:00 PM EDT
-* 5. Iteration. Tue, Oct11, 7:00 PM EDT
-* 6. Branching. Tue, Oct18, 7:00 PM EDT
-* 7. Functions. Tue, Oct25, 7:00 PM EDT
+0. **Orientation.** Tue, Sep6, 7:00 PM EDT
+1. **Getting Started.** Tue, Sep13, 7:00 PM EDT
+2. **Simple Objects and Operations.** Tue, Sep20, 7:00 PM EDT
+3. **String Methods.** Tue, Sep27, 7:00 PM EDT
+4. **Collections.** Tue, Oct4, 7:00 PM EDT
+5. **Iteration.** Tue, Oct11, 7:00 PM EDT
+6. **Branching.** Tue, Oct18, 7:00 PM EDT
+7. **Functions.** Tue, Oct25, 7:00 PM EDT
 
 
 
