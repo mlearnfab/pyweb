@@ -2,7 +2,7 @@
 # <font color="maroon">Curriculum</font>
 
 
-The **Python, Level I** consists of 7 Units and an Overview.
+The **Python, Level I** consists of 7 Topics.
 
 ```{image} /images/pythonunits.png
 :width: 750px
@@ -10,10 +10,10 @@ The **Python, Level I** consists of 7 Units and an Overview.
 ```
 
 
-## <font color="blue">Major Units</font>
+## <font color="blue">Units</font>
 
 
-- **Unit 0: Orientation:** In the orientation session we will go over the curriculum and expectations. There is also a brief introduction to the main concepts of programming. You will also write several elementary programs in Python.
+- **Unit 0: Orientation:** In the orientation session we will go over the curriculum and expectations. There is also a brief introduction to the main concepts of programming. 
 
 
 <p>&nbsp;</p>
