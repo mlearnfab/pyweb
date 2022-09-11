@@ -1,4 +1,4 @@
-(learningdesign)=
+(Learningdesign)=
 # <font color="maroon">Learning Design</font> 
 
 We learn by doing, not viewing. The Learning Design of @pythonfab is based on learning science principles. 

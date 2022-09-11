@@ -1,4 +1,4 @@
-(faq)=
+(FAQ)=
 # <font color="maroon">Frequently Asked Questions</font>
 
 **Q.** *What is Python for Absolute Beginners?*
@@ -63,6 +63,4 @@
 **Q.** *Do I need to share my personal information?*
 
 **A.** No. All we need is a name and an email address. If you choose to, you can remain anonymous. We won't ask you for, not expect you to disclose any PII (personally identifiable information).  
-
----
-
+ 

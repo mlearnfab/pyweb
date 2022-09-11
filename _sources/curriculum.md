@@ -1,4 +1,4 @@
-(curriculum)=
+(Curriculum)=
 # <font color="maroon">Curriculum</font>
 
 
