@@ -1,42 +1,17 @@
 (Learningdesign)=
 # <font color="maroon">Learning Design</font> 
 
-We learn by doing, not viewing. The Learning Design of @pythonfab is based on learning science principles. 
+We learn by doing, not by viewing. The Learning Design for Python for Absolute Beginners is based on learning science principles. You will begin each week by watching a short video. The video will be accompanied by a chapter from the book "Python for Absolute Beginners." You will then complete a small set of "pre-exercises". 
+
+The three steps will prepare you for the Meetup interactive session. The Meetup sessions are meant to consolidate your learning during the week and to set the stage for next week's work. 
+
+Following the Meetup, you will complete a post exercise to demonstrate your knowledge of the unit. You will receive badge upon successful completion of the unit. You may also request an optional recitation session if you have questions about the material or need additional feedback.
 
 
-
-The concepts in each unit will be presented in short explanatory videos. Each video will be approximately 7-10 minutes.
-
-```{image} /images/videos.png
+```{image} /images/learningflow.png
 :width: 500px
 :align: center
 ```
-
-
-Each unit will be accompanied by chapter from the textbook "Python for Absolute Beginners". 
-
-```{image} /images/chapters.png
-:width: 500px
-:align: center
-```
-
-
-The concepts in each unit will be reinforced by "pre" practice exercises. 
-
-```{image} /images/practice.png
-:width: 500px
-:align: center
-```
-
-Meetup sessions will be live interactive sessions, not lectures. You will be expected to have watched the video, read the chapter, and worked on the practice exercises.
-
-```{image} /images/isessions.png
-:width: 500px
-:align: center
-```
-
-After the Meetup, you will be assigned additional "post" practice exercises to evaluate your understanding of the unit. You may also request "recitation sessions" if you need more feedback.
-
 
 Learning complex skills is inherently a team activity. Collaborative coding challenges will be presented during the course. They are intended to develop complex problem solving skills in a group setting. The collaborative coding challenges are optional.
 
