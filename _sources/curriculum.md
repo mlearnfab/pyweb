@@ -19,13 +19,13 @@ The **Python, Level I** consists of 7 Topics.
 <p>&nbsp;</p>
 
 
-- **Unit 1: Getting Started:** In Unit 1 we will introduce the programming environment and the tools you will be using during the course of study. 
+- **Unit 1: Getting Started:** In Unit 1 we will introduce the programming environment and the tools you will be using during the course of study. You will also write your a few elementary programs.
 
 
 <p>&nbsp;</p>
 
 
-- **Unit 2: Simple Data Types and Operations.** In Unit 2 we introduce Python simple data types and operations. 
+- **Unit 2: Simple Data Types and Operations.** In Unit 2 we introduce Python simple data types and operations. We can think of the simple data types as the atoms of the language. Everything that follows builds on the simples.
 
 
 
@@ -33,13 +33,13 @@ The **Python, Level I** consists of 7 Topics.
 
 
 
-- **Unit 3: String Methods.** In Unit 3 we study a variety of string methods. In the unit we will introduce concepts that are also critical to the study of collections. 
+- **Unit 3: String Methods.** In Unit 3 we study a variety of string methods. Strings are sequences of characters. In the unit we will introduce concepts that are also critical to the study of collections. 
 
 
 <p>&nbsp;</p>
 
 
-- **Unit 4: Collections and Operations.** In Unit 4 we study the principal collections in Python: *lists*, *tuples*, *sets*, and *dictionaries*. 
+- **Unit 4: Collections and Operations.** In Unit 4 we study the principal collections in Python: *lists*, *tuples*, *sets*, and *dictionaries*. In Level I we will work mostly with lists and tuples. We will work systematically with sets and dictionaries in Level II.
 
 
 <p>&nbsp;</p>
