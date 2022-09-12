@@ -9,7 +9,7 @@ Unlike most offerings, the course combines self-paced material with live interac
 
 ## <font color="maroon">Fall 2022 Schedule</font>
 
-Python Level I begins in September 2022.  
+Python Level I is a 10-week course. It begins in September 2022.  
 
 0. **Orientation.** Tue, Sep6, 7:00 PM EDT. 
 1. **Getting Started.** Tue, Sep13, 7:00 PM EDT
@@ -19,6 +19,19 @@ Python Level I begins in September 2022.
 5. **Iteration.** Tue, Oct11, 7:00 PM EDT
 6. **Branching.** Tue, Oct18, 7:00 PM EDT
 7. **Functions.** Tue, Oct25, 7:00 PM EDT
+
+The final two weeks will be spent for review and presentation of coding challenges.
+
+
+## <font color="maroon">Registration</font>
+
+Registration for the course will begin on Tuesday, September 12th and close on Friday, September 30th. Registration is free, but you will have to commit to a) logging in to the Moodle course site at least once a week; b) spending at least 30 minutes per week on the course. 
+
+To register for the course:
+
+- Create a login at the [Moodle website](https://mlfab.moodlecloud.com)
+- Email pythonfab@gmail.com that you wish to register for Python for Absolute Beginners, Level I
+
 
 You can register for online interactive events (including orientation sessions) at the [Meetup Web Page](https://www.meetup.com/python-for-absolute-beginners/).
 
