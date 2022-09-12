@@ -9,7 +9,7 @@ Following the Meetup, you will complete a post exercise to demonstrate your know
 
 
 ```{image} /images/learningflow.png
-:width: 500px
+:width: 700px
 :align: center
 ```
 
