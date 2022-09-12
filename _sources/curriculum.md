@@ -19,18 +19,17 @@ The **Python, Level I** consists of 7 Topics.
 <p>&nbsp;</p>
 
 
-- **Unit 1: Getting Started:** In Unit 1 we will introduce the programming environment and the tools you will be using during the course of study. You will also write your a few elementary programs.
+- **Unit 1: Getting Started:** In Unit 1 we will introduce the programming environment and the tools you will use in the course. You will also write several elementary programs.
 
 
 <p>&nbsp;</p>
 
 
-- **Unit 2: Simple Data Types and Operations.** In Unit 2 we introduce Python simple data types and operations. We can think of the simple data types as the atoms of the language. Everything that follows builds on the simples.
+- **Unit 2: Simple Objects.** In Unit 2 we introduce Python's simple objects and operations on them. We can think of simple objects as the atoms of the language. Everything that follows will builds on the simples.
 
 
 
 <p>&nbsp;</p>
-
 
 
 - **Unit 3: String Methods.** In Unit 3 we study a variety of string methods. Strings are sequences of characters. In the unit we will introduce concepts that are also critical to the study of collections. 
@@ -39,7 +38,7 @@ The **Python, Level I** consists of 7 Topics.
 <p>&nbsp;</p>
 
 
-- **Unit 4: Collections and Operations.** In Unit 4 we study the principal collections in Python: *lists*, *tuples*, *sets*, and *dictionaries*. In Level I we will work mostly with lists and tuples. We will work systematically with sets and dictionaries in Level II.
+- **Unit 4: Collections.** In Unit 4 we study the principal collections in Python: *lists*, *tuples*, *sets*, and *dictionaries*. Collections are ways of grouping objects. In Level I we will work mostly with lists and tuples. We will work systematically with sets and dictionaries in Python, Level II.
 
 
 <p>&nbsp;</p>
@@ -51,11 +50,11 @@ The **Python, Level I** consists of 7 Topics.
 <p>&nbsp;</p>
 
 
-- **Unit 6: Branching.** In Unit 6 we study various techniques for branching through statements, such as if .. else. 
+- **Unit 6: Branching.** In Unit 6 we study various techniques for branching. 
 
 
 <p>&nbsp;</p>
 
 
-- **Unit 7: Functions.** In Unit 7 we introduce Python functions.  In your study of Python, you will be writing your own functions but also accessing the rich array of functions in the Python standard and extended libraries.
+- **Unit 7: Functions.** In Unit 7 we introduce Python functions.  You will learn to write your own functions but also access the rich array of functions in the Python standard and extended libraries.
 

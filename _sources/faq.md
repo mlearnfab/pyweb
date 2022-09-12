@@ -3,7 +3,7 @@
 
 **Q.** *What is Python for Absolute Beginners?*
 
-**A.** *Python for Absolute Beginners* is a free online proram designed for busy professionals who want to learn programming quickly and efficiently. Unlike most offerings, the course combines self-paced material with live interactive sessions. The course design is based on principles of active learning. Our goal is to teach you computation skills and the power of abstract thinking, not simply coding.
+**A.** *Python for Absolute Beginners* is a free online program designed for busy professionals who want to learn programming quickly and efficiently. Unlike most offerings, the course combines self-paced material with live interactive sessions. The course design is based on principles of active learning. Our goal is to teach you computation skills and the power of abstract thinking, not simply coding.
  
 ---
 
@@ -16,7 +16,7 @@
 
 **Q.** *What is the time commitment?*
 
-**A.** *Python for Absolute Beginners, Level I* consists of seven units. Each unit should take 3 - 5 hours to complete. The expected time commitment, therefore, is approximately 40 - 50 hours.
+**A.** *Python for Absolute Beginners, Level I* consists of seven units. Each unit should take approximately 2-3 hours to complete. The expected time commitment, therefore, is approximately 20 - 30 hours.
 
 ---
 
@@ -35,14 +35,14 @@
 
 **Q.** *Will I get a certificate?*
 
-**A.** At the end of course, you will receive a certificate of completion. 
+**A.** At the end of course, you will receive a badge and a certificate of completion. 
 
 ---
 
 
 **Q.** *Are the sessions recorded?*
 
-**A.** Each unit will be accompanied by several short videos on YouTube. The live interactive sessions will also be recorded and made available to participants.
+**A.** The Meetup sessions are recorded and will be available through the Moodle web site..
 
 ---
 
@@ -55,12 +55,12 @@
 
 **Q.** *How do I enroll?*
 
-**A.** To enroll in the program, go to the [moodle web site](https://mlfab.moodlecloud.com). Click on "Create new account" at the bottom. After you have created the new account, email mlearnfab@gmail.com. You will then receive instructions (within 24 hours) on how to get started.
+**A.** To enroll in the program, go to the [moodle web site](https://mlfab.moodlecloud.com). Click on "Create new account" at the bottom. After you have created the new account, email pythomfab@gmail.com. You should receive a confirmation email within 24 hours.
 
 
 ---
 
 **Q.** *Do I need to share my personal information?*
 
-**A.** No. All we need is a name and an email address. If you choose to, you can remain anonymous. We won't ask you for, not expect you to disclose any PII (personally identifiable information).  
+**A.** No. All we need is a name and an email address. You may use an alias if you don't want to reveal your identity. We won't ask you for, not expect you to disclose any PII (personally identifiable information).  
  

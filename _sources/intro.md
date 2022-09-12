@@ -29,11 +29,21 @@ Registration for the course will begin on Tuesday, September 12th and close on F
 
 To register for the course:
 
-- Create a login at the [Moodle website](https://mlfab.moodlecloud.com)
-- Email pythonfab@gmail.com that you wish to register for Python for Absolute Beginners, Level I
+- Create a login at the [Moodle website](https://mlfab.moodlecloud.com). Click the button "Create New Account."
+- After you have created a new account, email pythonfab@gmail.com that you wish to register for Python for Absolute Beginners, Level I.
 
 
-You can register for online interactive events (including orientation sessions) at the [Meetup Web Page](https://www.meetup.com/python-for-absolute-beginners/).
+
+
+## <font color="maroon">Course Web Site (Moodle)</font>
+
+
+Approximately 24 hours after registration, you will receive access to the Moodle course web site. The course web site will contain all the instructional resources you will need for the course. If you are having difficulty, please email: pythonfab@gmail.com.
+
+
+## <font color="maroon">Course Web Site (Moodle)</font>
+
+You can register for online interactive events at the [Meetup Web Page](https://www.meetup.com/python-for-absolute-beginners/).
 
 
 
